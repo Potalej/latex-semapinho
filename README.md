@@ -6,3 +6,9 @@ Semapinho em LaTeX:
 ```tex
 \semapinho
 ```
+
+Para usar por fora, é só colocar os arquivos `semapinho.sty` e `semapinho.png` no seu projeto e adicionar
+```tex
+\usepackage{semapinho}
+```
+que vai dar certo.
